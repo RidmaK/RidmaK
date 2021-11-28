@@ -27,9 +27,8 @@ I am Ridma kanchana. I am a self-taught developer and like to study anything rel
 <table>
     <tr>
         <td>
-            <a href="https://github.com/RidmaK/SmartShopping">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RidmaK&repo=SmartShopping&theme=nord" />
-</a>
+            [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RidmaK&repo=SmartShopping)](https://github.com/RidmaK/SmartShopping)
+
         </td>
         <td>
         <a href="https://github.com/RidmaK/Gym">
