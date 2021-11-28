@@ -5,10 +5,10 @@
 
 I am Ridma kanchana. I am a self-taught developer and like to study anything related to programming. Currently I am interested on @laravel and I am actively looking for a job on laravel.
 
-[![Linkedin: RidmaK](https://img.shields.io/badge/-RidmaK-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ridma-athukorala/)](https://www.linkedin.com/in/RidmaK/)
+[![Linkedin: ridma-athukorala](https://img.shields.io/badge/-ridma-athukorala-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ridma-athukorala/)](https://www.linkedin.com/in/RidmaK/)
 [![GitHub RidmaK](https://img.shields.io/github/followers/RidmaK?label=follow&style=social)](https://github.com/RidmaK)
 [![website](https://img.shields.io/badge/PortfolioWebsite-Ridma.live-2648ff?style=flat-square&logo=google-chrome)](https://Ridma.live/)
-[![GitLab: RidmaK](https://img.shields.io/gitlab/follow/RidmaK?style=social)](http://git.ceylonlinux.lk/ridma)
+[![GitLab: ridma](https://img.shields.io?style=social)](http://git.ceylonlinux.lk/ridma)
 
 
 <a href="https://github.com/RidmaK">
@@ -18,7 +18,7 @@ I am Ridma kanchana. I am a self-taught developer and like to study anything rel
     <img height="150px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidmaK&theme=nord&layout=compact&langs_count=6" />
 </a>
 <a href="https://github.com/RidmaK">
-  <img height="300px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidmaK&theme=nord&hide_langs_below=1" />
+  <img height="250px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidmaK&theme=nord&hide_langs_below=1" />
 </a>
 
 <!--START_SECTION:thakku-->
