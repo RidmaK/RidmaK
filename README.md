@@ -32,7 +32,7 @@ I am Ridma kanchana. I am a self-taught developer and like to study anything rel
 
 <div align="center">
 
-### Show Some ❤️ By Starring Some Of The Repositories!
+<p>Show Some ❤️ By Starring Some Of The Repositories!</p>
 
 </div>
 
