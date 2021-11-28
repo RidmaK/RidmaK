@@ -10,7 +10,20 @@ I am Ridma kanchana. I am a self-taught developer and like to study anything rel
 [![GitLab RidmaK](https://img.shields.io/gitlab/followers/RidmaK?label=follow&style=social)](http://git.ceylonlinux.lk/ridma)
 [![website](https://img.shields.io/badge/PortfolioWebsite-Ridma.live-2648ff?style=flat-square&logo=google-chrome)](https://Ridma.live/)
 
-
+<table>
+    <tr>
+        <td>
+            <a href="https://github.com/RidmaK">
+                <img height="150px" align="center" src="https://github-readme-stats.vercel.app/api?username=RidmaK&show_icons=true&theme=nord&line_height=27" alt="Ridma's github stats"/>
+            </a>
+        </td>
+        <td>
+        <a href="https://github.com/RidmaK">
+            <img height="150px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidmaK&theme=nord&layout=compact&langs_count=6" />
+        </a>
+        </td>
+    </tr>
+</table>
 <a href="https://github.com/RidmaK">
     <img height="150px" align="center" src="https://github-readme-stats.vercel.app/api?username=RidmaK&show_icons=true&theme=nord&line_height=27" alt="Ridma's github stats"/>
 </a>
@@ -18,7 +31,7 @@ I am Ridma kanchana. I am a self-taught developer and like to study anything rel
     <img height="150px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidmaK&theme=nord&layout=compact&langs_count=6" />
 </a>
 <a href="https://github.com/RidmaK">
-  <img height="250px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidmaK&theme=nord&hide_langs_below=1" />
+  <img height="150px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidmaK&theme=nord&hide_langs_below=1" />
 </a>
 
 <!--START_SECTION:thakku-->
