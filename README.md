@@ -32,16 +32,13 @@ I am Ridma kanchana. I am a self-taught developer and like to study anything rel
 </a>
         </td>
         <td>
-        <a href="https://github.com/RidmaK/SmartShopping">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RidmaK&repo=SmartShopping&theme=nord" />
+        <a href="https://github.com/RidmaK/Gym">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RidmaK&repo=Gym&theme=nord" />
 </a>
         </td>
     </tr>
 </table>
 
-<a href="https://github.com/RidmaK/Gym">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RidmaK&repo=Gym&theme=nord" />
-</a>
 
 
 <!--START_SECTION:thakku-->
