@@ -7,7 +7,7 @@ I am Ridma kanchana. I am a self-taught developer and like to study anything rel
 
 [![Linkedin: RidmaK](https://img.shields.io/badge/-RidmaK-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/RidmaK/)](https://www.linkedin.com/in/ridma-athukorala/)
 [![GitHub RidmaK](https://img.shields.io/github/followers/RidmaK?label=follow&style=social)](https://github.com/RidmaK)
-[![GitHub RidmaK](https://img.shields.io//github/stars/RidmaK/repo?style=social)](http://git.ceylonlinux.lk/ridma)
+[![GitHub RidmaK](https://img.shields.io/github/stars/RidmaK?label=follow&style=social)](https://github.com/RidmaK)
 [![website](https://img.shields.io/badge/PortfolioWebsite-Ridma.live-2648ff?style=flat-square&logo=google-chrome)](https://Ridma.live/)
 
 <table>
