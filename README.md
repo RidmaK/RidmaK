@@ -24,6 +24,12 @@ I am Ridma kanchana. I am a self-taught developer and like to study anything rel
         </td>
     </tr>
 </table>
+
+
+
+
+<!--START_SECTION:thakku-->
+
 <table>
     <tr>
         <td>
@@ -37,10 +43,6 @@ I am Ridma kanchana. I am a self-taught developer and like to study anything rel
         </td>
     </tr>
 </table>
-
-
-
-<!--START_SECTION:thakku-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RidmaK&label=Page Views&color=blue&style=plastic" alt="RidmaK" /> </p>
 
