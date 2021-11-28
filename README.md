@@ -12,7 +12,7 @@ I am Ridma kanchana. I am a self-taught developer and like to study anything rel
     <img height="150px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidmaK&theme=nord&layout=compact&langs_count=6" />
 </a>
 <a href="https://github.com/RidmaK">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidmaK&theme=light&hide_langs_below=1" />
+  <img height="150px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidmaK&theme=nord&hide_langs_below=1" />
 </a>
 
 <!--START_SECTION:thakku-->
