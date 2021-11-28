@@ -28,7 +28,7 @@ I am Ridma kanchana. I am a self-taught developer and like to study anything rel
 
 <!--START_SECTION:thakku-->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=RidmaK&label=Views&color=blue&style=plastic" alt="RidmaK" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RidmaK&label=Page Views&color=blue&style=plastic" alt="RidmaK" /> </p>
 
 <div align="center">
 
