@@ -33,12 +33,13 @@ I am Ridma kanchana. I am a self-taught developer and like to study anything rel
 <table>
     <tr>
         <td>
-            [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RidmaK&repo=SmartShopping)](https://github.com/RidmaK/SmartShopping)
-
+            <a href="https://github.com/RidmaK/Gym">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RidmaK&repo=Gym&theme=nord" />
+</a>
         </td>
         <td>
-        <a href="https://github.com/RidmaK/Gym">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RidmaK&repo=Gym&theme=nord" />
+        <a href="https://github.com/RidmaK/SmartShopping">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RidmaK&repo=SmartShopping&theme=nord" />
 </a>
         </td>
     </tr>
