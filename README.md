@@ -10,40 +10,29 @@ I am Ridma kanchana. I am a self-taught developer and like to study anything rel
 [![GitHub RidmaK](https://img.shields.io/github/stars/RidmaK?label=stars&style=social)](https://github.com/RidmaK)
 [![website](https://img.shields.io/badge/PortfolioWebsite-Ridma.live-2648ff?style=flat-square&logo=google-chrome)](https://Ridma.live/)
 
-<table>
-    <tr>
-        <td>
-            <a href="https://github.com/RidmaK">
-                <img height="150px" align="center" src="https://github-readme-stats.vercel.app/api?username=RidmaK&show_icons=true&theme=nord&line_height=27" alt="Ridma's github stats"/>
-            </a>
-        </td>
-        <td>
-        <a href="https://github.com/RidmaK">
-            <img height="150px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidmaK&theme=nord&layout=compact&langs_count=6" />
-        </a>
-        </td>
-    </tr>
-</table>
+
+
 
 
 
 
 <!--START_SECTION:thakku-->
 
-<table>
-    <tr>
-        <td>
-            <a href="https://github.com/RidmaK/Gym">
+ <a href="https://github.com/RidmaK">
+                <img height="150px" align="center" src="https://github-readme-stats.vercel.app/api?username=RidmaK&show_icons=true&theme=nord&line_height=27" alt="Ridma's github stats"/>
+  </a>
+        
+           <a href="https://github.com/RidmaK">
+            <img height="150px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidmaK&theme=nord&layout=compact&langs_count=6" />
+        </a>
+        
+         <a href="https://github.com/RidmaK/Gym">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RidmaK&repo=Gym&theme=nord" />
 </a>
-        </td>
-        <td>
-        <a href="https://github.com/RidmaK/SmartShopping">
+
+ <a href="https://github.com/RidmaK/SmartShopping">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RidmaK&repo=SmartShopping&theme=nord" />
 </a>
-        </td>
-    </tr>
-</table>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RidmaK&label=Page Views&color=blue&style=plastic" alt="RidmaK" /> </p>
 
