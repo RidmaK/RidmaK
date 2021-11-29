@@ -22,13 +22,9 @@ I am Ridma kanchana. I am a self-taught developer and like to study anything rel
   </a>
  <a href="https://github.com/RidmaK">
                 <img height="150px" align="center" src="https://github-readme-stats.vercel.app/api?username=RidmaK&show_icons=true&theme=nord&line_height=27" alt="Ridma's github stats"/></a>
-        
-          
-        
-         <a href="https://github.com/RidmaK/Gym">
+ <a href="https://github.com/RidmaK/Gym">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RidmaK&repo=Gym&theme=nord" />
 </a>
-
  <a href="https://github.com/RidmaK/SmartShopping">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RidmaK&repo=SmartShopping&theme=nord" />
 </a>
