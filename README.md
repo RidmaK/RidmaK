@@ -11,26 +11,6 @@ I am Ridma kanchana. I am a self-taught developer and like to study anything rel
 [![website](https://img.shields.io/badge/PortfolioWebsite-Ridma.live-2648ff?style=flat-square&logo=google-chrome)](https://Ridma.live/)
 
 
-
-
-
-
-
-<!--START_SECTION:thakku-->
- <a href="https://github.com/RidmaK">
-    <img height="150px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidmaK&theme=nord&layout=compact&langs_count=6" />
-</a>
- <a href="https://github.com/RidmaK">
-                <img height="150px" align="center" src="https://github-readme-stats.vercel.app/api?username=RidmaK&show_icons=true&theme=nord&line_height=27" alt="Ridma's github stats"/></a>
- <a href="https://github.com/RidmaK/Gym">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RidmaK&repo=Gym&theme=nord" />
-</a>
- <a href="https://github.com/RidmaK/SmartShopping">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RidmaK&repo=SmartShopping&theme=nord" />
-</a>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=RidmaK&label=Page Views&color=blue&style=plastic" alt="RidmaK" /> </p>
-
 <div align="center">
 
 <p>Show Some ❤️ By Starring Some Of The Repositories!</p>
