@@ -38,7 +38,10 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on <?php echo now() ?>
+ Last Updated on 
+    <script>
+document.getElementById("current_date").innerHTML = Date();
+</script>
 
 <div align="center">
 
