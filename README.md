@@ -37,9 +37,6 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 ```
 
 
-
- Last Updated on <a href="http://earth.nullschool.net/#2012/01/24/1200Z/wind/isobaric/500hPa/" id="link">500 mb Earth Wind Map</a>
-
 <div align="center">
 
 <p>Show Some ❤️ By Starring Some Of The Repositories!</p>
