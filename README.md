@@ -5,6 +5,13 @@
 
 I am Ridma kanchana. I am a self-taught developer and like to study anything related to programming. Currently I am interested on @laravel and I am actively looking for a job on laravel.
 
+<a href="https://github.com/RidmaK">
+    <img height="150px" align="center" src="https://github-readme-stats.vercel.app/api?username=RidmaK&show_icons=true&theme=nord&line_height=27" alt="Pawan's github stats"/>
+</a>
+<a href="https://github.com/RidmaK">
+    <img height="150px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidmaK&theme=nord&layout=compact&langs_count=6" />
+</a>
+
 [![Linkedin: RidmaK](https://img.shields.io/badge/-RidmaK-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/RidmaK/)](https://www.linkedin.com/in/ridma-athukorala/)
 [![GitHub RidmaK](https://img.shields.io/github/followers/RidmaK?label=follow&style=social)](https://github.com/RidmaK)
 [![GitHub RidmaK](https://img.shields.io/github/stars/RidmaK?label=stars&style=social)](https://github.com/RidmaK)
