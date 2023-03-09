@@ -24,6 +24,20 @@ I am Ridma kanchana. I am a self-taught developer and like to study anything rel
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 
+**I Mostly Code in PHP** 
+
+```text
+PHP                      23 repos            ██████████████░░░░░░░░░░░   58.97% 
+JavaScript               7 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.95% 
+CSS                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.26% 
+HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.13% 
+Dockerfile               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.56%
+
+```
+
+
+
+ Last Updated on 14/07/2022 18:48:25 UTC
 
 <div align="center">
 
