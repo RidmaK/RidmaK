@@ -16,6 +16,13 @@ I am Ridma kanchana. I am a self-taught developer and like to study anything rel
 [![GitHub RidmaK](https://img.shields.io/github/followers/RidmaK?label=follow&style=social)](https://github.com/RidmaK)
 [![GitHub RidmaK](https://img.shields.io/github/stars/RidmaK?label=stars&style=social)](https://github.com/RidmaK)
 [![website](https://img.shields.io/badge/PortfolioWebsite-Ridma.live-2648ff?style=flat-square&logo=google-chrome)](https://Ridma.live/)
+    
+    
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+
 
 
 <div align="center">
