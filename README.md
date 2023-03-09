@@ -38,10 +38,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 
-    <script>
-document.getElementById("current_date").innerHTML = Date();
-</script>
+ Last Updated on <a href="http://earth.nullschool.net/#<?php echo date('Y/m/d')?>/1200Z/wind/isobaric/500hPa/">
 
 <div align="center">
 
