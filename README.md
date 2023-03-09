@@ -38,7 +38,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 14/07/2022 18:48:25 UTC
+ Last Updated on <?php echo now() ?>
 
 <div align="center">
 
